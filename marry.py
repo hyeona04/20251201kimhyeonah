@@ -12,4 +12,3 @@ for i in range(1, height + 1):
 # 줄기
 spaces = " " * (height - 1)
 print(spaces + "|")
-shinjunseo
