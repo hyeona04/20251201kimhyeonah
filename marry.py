@@ -11,5 +11,6 @@ for i in range(1, height + 1):
 
 # 줄기
 spaces = " " * (height - 1)
+print("트리 생성 코드")
 print(spaces + "|")
 shinjunseo
